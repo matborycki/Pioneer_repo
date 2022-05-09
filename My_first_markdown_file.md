@@ -17,6 +17,7 @@ Another feature of Markdown are blockquotes like below:
 
 <br>
 ***
+
 ### A simple scrambled eggs recipe
 
 1. Take 3-4 eggs from the fridge.
@@ -26,6 +27,7 @@ Another feature of Markdown are blockquotes like below:
 4. Find further steps __[here](https://kuchnialidla.pl/jajecznica-na-3-sposoby)__.
 <br>
 ***
+
 ### How to import a flow into the Node-RED.
 
 ### # A header that begins with the hash
