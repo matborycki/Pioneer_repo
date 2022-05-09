@@ -38,7 +38,7 @@ Another feature of Markdown are blockquotes like below:
 		<body>
 		<title>An HTML file</title>
 		</body>
-		</html>
+</html>
 ```
 3. Third item
 
