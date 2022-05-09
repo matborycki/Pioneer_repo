@@ -6,7 +6,7 @@ This repository contains some _Markdown_ and _JavaScript files_, which I create 
 
 ### JavaScript guide
 
-I learn JavaScript from the _[Scrimba's guide]((https://scrimba.com/learn/learnjavascript "I like it, so check that out!")_, which is a quick, fast-pased introduction to JavaScript with a very friendly narration.
+I learn JavaScript from the [Scrimba's guide]((https://scrimba.com/learn/learnjavascript "I like it, so check that out!"), which is a quick, fast-pased introduction to JavaScript with a very friendly narration.
 
 ### Markdown guide
 
