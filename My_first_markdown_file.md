@@ -15,8 +15,8 @@ Another feature of Markdown are blockquotes like below:
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 >>> **Eviva l\`arte!**
 
+<br>
 ***
-
 ### A simple scrambled eggs recipe
 
 1. Take 3-4 eggs from the fridge.
@@ -24,9 +24,8 @@ Another feature of Markdown are blockquotes like below:
 3. Heat the butter.
     ***Remark:*** *You cannot heat it up to a boiling state!*
 4. Find further steps __[here](https://kuchnialidla.pl/jajecznica-na-3-sposoby)__.
-
+<br>
 ***
-
 ### How to import a flow into the Node-RED.
 
 ### # A header that begins with the hash
@@ -68,5 +67,5 @@ Another feature of Markdown are blockquotes like below:
 
 ### Resources that I can recommend
 
-1. <https://www.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95></https://www.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95>
-2. <https://www.k15t.com/rock-the-docs/documentation-guide#Why%20Documentation%20in%20Confluence?></https://www.k15t.com/rock-the-docs/documentation-guide#Why%20Documentation%20in%20Confluence?>
+1. [The product is docs](https://www.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95)
+2. [Rock the docs - documentation in Confluence](https://www.k15t.com/rock-the-docs/documentation-guide#Why%20Documentation%20in%20Confluence?)
