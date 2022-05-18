@@ -39,7 +39,7 @@ logData()
 
 ### To-do list
 
--[x] Mown the lawn
--[ ] Throw out rubbish
--[ ] Call mom and dad
--[x] Buy coffee
+- [x] Mown the lawn
+- [ ] Throw out rubbish
+- [ ] Call mom and dad
+- [x] Buy coffee
