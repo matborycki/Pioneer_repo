@@ -34,7 +34,7 @@ function logData(){
 logData()
 ```
 
-** Output in the console should be like that: **
+__Console output should be:__
 > John Doe is 25 years old and lives in Ireland
 
 ### To-do list
